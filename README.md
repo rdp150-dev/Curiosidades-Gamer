@@ -41,3 +41,4 @@ Se você é um desenvolvedor e quer ajudar a melhorar a aplicação, fique à vo
 **Disclaimer:** As curiosidades apresentadas nesta aplicação são baseadas em informações encontradas na internet e podem não ser 100% precisas. 
 
 **Divirta-se explorando o mundo dos games!**
+**Link do site:** https://curiosidades-gamer-h4xbxc9be-ryans-projects-dd0c8971.vercel.app/
