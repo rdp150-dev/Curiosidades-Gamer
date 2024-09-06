@@ -1,4 +1,4 @@
-## Curiosidades Gamer: Desvendando os segredos dos games!
+## Curiosidades Gamer: Desvendando os segredos dos games! - imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
